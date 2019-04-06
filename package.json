@@ -1,0 +1,14 @@
+{
+  "name": "email-setup",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "gh-pages -d production"
+  },
+  "homepage": "https://cmcoke.github.io/boostedboards",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gh-pages": "^2.0.1",
+    "gulp": "^3.9.1",
+    "gulp-watch": "^5.0.1"
+  }
+}
