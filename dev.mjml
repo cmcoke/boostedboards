@@ -68,14 +68,36 @@
       </mj-column>
     </mj-section>
 
+    <mj-raw>
+      <!-- how it began -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding=" 10px 20px 0px 20px">
+      <mj-column>
+        <mj-text font-family="'raleway', sans-serif" align="center">
+          <h1 style="font-size: 20px;">HOW IT BEGAN</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- line -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding=" 0px 20px 0px 20px">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/7Z1s9yDs/line-3.png" width="60px" height="3px"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- video -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding=" 20px 20px 20px 20px">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/W1znV786/about-3.png" href="https://www.youtube.com/watch?v=Q1_uGY50II4&list=PLgJM114ctNEdeWxOegxsJQcfebtrZjJuX&index=2&t=0s"/>
+      </mj-column>
+    </mj-section>
+
     
-
-
-
-
-
-
-
 
 
 
