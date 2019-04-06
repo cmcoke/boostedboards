@@ -19,11 +19,70 @@
 
   <mj-body background-color="#ffffff">
 
-    <mj-section>
+    <mj-raw>
+      <!-- icon -->
+    </mj-raw>
+    <mj-section background-color="#F5F5F5">
       <mj-column>
-        <mj-text align="center" font-family="'raleway', sans-serif" font-size="33px" padding="20px">Hello World!!!</mj-text>
+        <mj-image src="https://i.postimg.cc/3r4Rp0Rr/logo.png" width="150px" padding="15px 0px 15px 0px"/>
       </mj-column>
     </mj-section>
+
+    <mj-raw>
+      <!-- hero -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="30px 0px 10px 0px">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/d3GbMHg4/hero-4.png" />
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- intro -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding=" 10px 20px 0px 20px">
+      <mj-column>
+        <mj-text font-family="'raleway', sans-serif">
+          <h1 style="font-size: 20px; line-height: 25px;">MEET YOUR NEW ELECTRIC VEHICLE</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- line -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding=" 0px 20px 0px 20px">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/7Z1s9yDs/line-3.png" width="60px" height="3px" align="left" padding="0px 2px 0px 2px"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Boosted is on a mission to make cities ... -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding=" 0px 20px 0px 20px">
+      <mj-column>
+        <mj-text font-family="'raleway', sans-serif">
+          <p style="font-size: 13px; line-height: 23px;">Boosted is on a mission to make cities feel smaller, campuses more accessible, and commutes more enjoyable. Our boards are designed and built to handle the rigors of daily use while offering an exhilarating ride with unparalleled power and control.<p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   </mj-body>
 
