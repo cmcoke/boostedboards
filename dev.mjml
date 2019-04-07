@@ -229,9 +229,57 @@
 
     </mj-section>
 
+    <mj-raw>
+      <!-- ride risk free -->
+    </mj-raw>
+    <mj-section background-color="black" padding="30px 20px 0px 20px">
+      <mj-column>
+        <mj-text font-family="'raleway', sans-serif" align="center">
+          <h1 style="font-size: 22px; color:#ffffff; padding-bottom:6px;">RIDE RISK FREE</h1>
+          <p style="font-size: 14px; font-weight:700; color:#666666; line-height:20px;">We know you'll love your Boosted board. Ride today and experience it yourself.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
+    <mj-raw>
+      <!-- line -->
+    </mj-raw>
+    <mj-section background-color="black" padding="0px 120px 30px 120px">
+      <mj-column>
+        <mj-spacer  container-background-color='#6D6D6D' height="2px" width="1px"/>
+      </mj-column>
+    </mj-section>
 
+    <mj-raw>
+      <!-- financing available -->
+    </mj-raw>
+    <mj-section background-color="black" padding="0px 20px 0 20px">
 
+      <mj-column padding="10px 0px 20px 0px" vertical-align="middle">
+        <mj-image src="https://i.postimg.cc/Kzyjzkv0/financing.png" width="30px"/>
+        <mj-text font-family="'raleway', sans-serif" align="center">
+          <h1 style="font-size: 17px; color:#c0a987; padding-bottom:3px;">FINANCING AVAILABLE</h1>
+          <p style="font-size: 14px; font-weight:700; color:#666666; line-height:20px; padding:0px 10px 0px 10px">Pay over time with easy, fixed monthly payments.</p>
+        </mj-text>
+      </mj-column>
+
+      <mj-column padding="10px 0px 20px 0px" vertical-align="middle">
+        <mj-image src="https://i.postimg.cc/qvV2nRRC/warranty.png" width="30px"/>
+        <mj-text font-family="'raleway', sans-serif" align="center">
+          <h1 style="font-size: 17px; color:#c0a987; padding-bottom:3px;">6-MONTH WARRANTY</h1>
+          <p style="font-size: 14px; font-weight:700; color:#666666; line-height:20px; padding:0px 10px 0px 10px">We provide full protection against manufacturing defects.</p>
+        </mj-text>
+      </mj-column>
+
+      <mj-column padding="15px 0px 20px 0px" vertical-align="middle">
+        <mj-image src="https://i.postimg.cc/5yPbJjRK/ok.png" width="30px"/>
+        <mj-text font-family="'raleway', sans-serif" align="center">
+          <h1 style="font-size: 17px; color:#c0a987; padding-bottom:3px;">30 DAY GUARANTEE</h1>
+          <p style="font-size: 14px; font-weight:700; color:#666666; line-height:20px; padding:0px 10px 0px 10px">If you don’t love your Boosted board, we’ll gladly take it back for a refund.</p>
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
 
 
 
