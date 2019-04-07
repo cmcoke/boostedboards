@@ -91,13 +91,143 @@
     <mj-raw>
       <!-- video -->
     </mj-raw>
-    <mj-section background-color="#ffffff" padding=" 20px 20px 20px 20px">
+    <mj-section background-color="#ffffff" padding=" 20px 20px 10px 20px">
       <mj-column>
         <mj-image src="https://i.postimg.cc/W1znV786/about-3.png" href="https://www.youtube.com/watch?v=Q1_uGY50II4&list=PLgJM114ctNEdeWxOegxsJQcfebtrZjJuX&index=2&t=0s"/>
       </mj-column>
     </mj-section>
 
-    
+    <mj-raw>
+      <!-- types of boosted boards -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px 20px 0px 20px">
+      <mj-column>
+        <mj-text font-family="'raleway', sans-serif">
+          <h1 style="font-size: 20px; line-height: 25px;">THE TYPES OF BOARDS</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- line -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding=" 0px 20px 15px 20px">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/7Z1s9yDs/line-3.png" width="60px" height="3px" align="left" padding="0px 2px 0px 2px"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- mini s -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" >
+
+      <mj-column padding=" 0px 20px 0px 0px">
+        <mj-image src="https://i.postimg.cc/QCMdDY2g/mini-s-2.png"/>
+      </mj-column>
+
+      <mj-column padding=" 0px 0px 20px 20px">
+        <mj-text font-family="'raleway', sans-serif" line-height="11px">
+          <h1 style="font-size: 16px; color:#f44805;">BOOSTED MINI S</h1>
+          <p style="font-size: 13px; color:#939393;">Where power meets agility</p>
+        </mj-text>
+
+        <mj-text font-family="'raleway', sans-serif" line-height="15px">
+          <p style="font-size: 13px; color:#939393;">- 18 mph Top Speed</p>
+          <p style="font-size: 13px; color:#939393;">- Deep Dish Composite Deck</p>
+          <p style="font-size: 13px; color:#939393;">- Standard Range (7 Miles)</p>
+          <h1 style="font-size: 20px;">$749</h1>
+        </mj-text>
+        <mj-button font-family="'raleway', sans-serif" background-color="#f44805" padding-top="10px" href="https://boostedboards.com/boards">
+          Buy Now
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-raw>
+      <!-- mini x -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" >
+
+      <mj-column padding=" 0px 20px 0px 0px">
+        <mj-image src="https://i.postimg.cc/Y0jMZGFb/mini-x-2.png"/>
+      </mj-column>
+
+      <mj-column padding="0px 0px 20px 20px">
+        <mj-text font-family="'raleway', sans-serif" line-height="11px">
+          <h1 style="font-size: 16px; color:#f44805;">BOOSTED MINI X</h1>
+          <p style="font-size: 13px; color:#939393;">Where power meets agility</p>
+        </mj-text>
+
+        <mj-text font-family="'raleway', sans-serif" line-height="15px">
+          <p style="font-size: 13px; color:#939393;">- 20 mph Top Speed</p>
+          <p style="font-size: 13px; color:#939393;">- Deep Dish Composite Deck</p>
+          <p style="font-size: 13px; color:#939393;">- Standard Range (14 Miles)</p>
+          <h1 style="font-size: 20px;">$999</h1>
+        </mj-text>
+        <mj-button font-family="'raleway', sans-serif" background-color="#f44805" padding-top="10px" href="https://boostedboards.com/boards">
+          Buy Now
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-raw>
+      <!-- boosted plus -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" >
+
+      <mj-column padding=" 0px 20px 0px 0px">
+        <mj-image src="https://i.postimg.cc/fRHnnTwP/boosted-plus-3.png"/>
+      </mj-column>
+
+      <mj-column padding=" 0px 0px 20px 20px">
+        <mj-text font-family="'raleway', sans-serif" line-height="11px">
+          <h1 style="font-size: 16px; color:#f44805;">BOOSTED PLUS</h1>
+          <p style="font-size: 13px; color:#939393;">The new classic</p>
+        </mj-text>
+
+        <mj-text font-family="'raleway', sans-serif" line-height="15px">
+          <p style="font-size: 13px; color:#939393;">- 22 mph Top Speed</p>
+          <p style="font-size: 13px; color:#939393;">- Extended Range (14 Miles)</p>
+          <p style="font-size: 13px; color:#939393;">- Super Flex Composite Deck</p>
+          <h1 style="font-size: 20px;">$1,399</h1>
+        </mj-text>
+        <mj-button font-family="'raleway', sans-serif" background-color="#f44805" padding-top="10px" href="https://boostedboards.com/boards">
+          Buy Now
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-raw>
+      <!-- boosted sleath  -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" >
+
+      <mj-column padding=" 0px 20px 0px 0px">
+        <mj-image src="https://i.postimg.cc/sfPLCDmJ/boosted-sleath-2.png"/>
+      </mj-column>
+
+      <mj-column padding="0px 0px 30px 20px">
+        <mj-text font-family="'raleway', sans-serif" line-height="11px">
+          <h1 style="font-size: 16px; color:#f44805;">BOOSTED STEALTH</h1>
+          <p style="font-size: 13px; color:#939393;">The pinnacle of performance</p>
+        </mj-text>
+
+        <mj-text font-family="'raleway', sans-serif" line-height="15px">
+          <p style="font-size: 13px; color:#939393;">- 24 mph Top Speed</p>
+          <p style="font-size: 13px; color:#939393;">- Extended Range (14 Miles)</p>
+          <p style="font-size: 13px; color:#939393;">- Super Flex Composite Deck</p>
+          <h1 style="font-size: 20px;">$1,399</h1>
+        </mj-text>
+        <mj-button font-family="'raleway', sans-serif" background-color="#f44805" padding-top="10px" href="https://boostedboards.com/boards">
+          Buy Now
+        </mj-button>
+      </mj-column>
+
+    </mj-section>
 
 
 
