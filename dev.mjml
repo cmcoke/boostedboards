@@ -120,22 +120,22 @@
     <mj-raw>
       <!-- mini s -->
     </mj-raw>
-    <mj-section background-color="#ffffff" >
+    <mj-section background-color="#ffffff">
 
-      <mj-column padding=" 0px 20px 0px 0px">
+      <mj-column>
         <mj-image src="https://i.postimg.cc/QCMdDY2g/mini-s-2.png"/>
       </mj-column>
 
-      <mj-column padding=" 0px 0px 20px 20px">
-        <mj-text font-family="'raleway', sans-serif" line-height="11px">
-          <h1 style="font-size: 16px; color:#f44805;">BOOSTED MINI S</h1>
-          <p style="font-size: 13px; color:#939393;">Where power meets agility</p>
+      <mj-column padding=" 0px 0px 30px 20px">
+        <mj-text font-family="'raleway', sans-serif" line-height="11px" align="center">
+          <h1 style="font-size: 20px; color:#f44805;">BOOSTED MINI S</h1>
+          <p style="font-size: 14px; color:#939393;">Where power meets agility</p>
         </mj-text>
 
-        <mj-text font-family="'raleway', sans-serif" line-height="15px">
-          <p style="font-size: 13px; color:#939393;">- 18 mph Top Speed</p>
-          <p style="font-size: 13px; color:#939393;">- Deep Dish Composite Deck</p>
-          <p style="font-size: 13px; color:#939393;">- Standard Range (7 Miles)</p>
+        <mj-text font-family="'raleway', sans-serif" line-height="15px" align="center">
+          <p style="font-size: 15px; color:#939393;">- 18 mph Top Speed</p>
+          <p style="font-size: 15px; color:#939393;">- Deep Dish Composite Deck</p>
+          <p style="font-size: 15px; color:#939393;">- Standard Range (7 Miles)</p>
           <h1 style="font-size: 20px;">$749</h1>
         </mj-text>
         <mj-button font-family="'raleway', sans-serif" background-color="#f44805" padding-top="10px" href="https://boostedboards.com/boards">
@@ -150,20 +150,20 @@
     </mj-raw>
     <mj-section background-color="#ffffff" >
 
-      <mj-column padding=" 0px 20px 0px 0px">
+      <mj-column>
         <mj-image src="https://i.postimg.cc/Y0jMZGFb/mini-x-2.png"/>
       </mj-column>
 
-      <mj-column padding="0px 0px 20px 20px">
-        <mj-text font-family="'raleway', sans-serif" line-height="11px">
-          <h1 style="font-size: 16px; color:#f44805;">BOOSTED MINI X</h1>
-          <p style="font-size: 13px; color:#939393;">Where power meets agility</p>
+      <mj-column padding="0px 0px 30px 20px">
+        <mj-text font-family="'raleway', sans-serif" line-height="11px" align="center">
+          <h1 style="font-size: 20px; color:#f44805;">BOOSTED MINI X</h1>
+          <p style="font-size: 14px; color:#939393;">Where power meets agility</p>
         </mj-text>
 
-        <mj-text font-family="'raleway', sans-serif" line-height="15px">
-          <p style="font-size: 13px; color:#939393;">- 20 mph Top Speed</p>
-          <p style="font-size: 13px; color:#939393;">- Deep Dish Composite Deck</p>
-          <p style="font-size: 13px; color:#939393;">- Standard Range (14 Miles)</p>
+        <mj-text font-family="'raleway', sans-serif" line-height="15px" align="center">
+          <p style="font-size: 15px; color:#939393;">- 20 mph Top Speed</p>
+          <p style="font-size: 15px; color:#939393;">- Deep Dish Composite Deck</p>
+          <p style="font-size: 15px; color:#939393;">- Standard Range (14 Miles)</p>
           <h1 style="font-size: 20px;">$999</h1>
         </mj-text>
         <mj-button font-family="'raleway', sans-serif" background-color="#f44805" padding-top="10px" href="https://boostedboards.com/boards">
@@ -178,20 +178,20 @@
     </mj-raw>
     <mj-section background-color="#ffffff" >
 
-      <mj-column padding=" 0px 20px 0px 0px">
+      <mj-column>
         <mj-image src="https://i.postimg.cc/fRHnnTwP/boosted-plus-3.png"/>
       </mj-column>
 
-      <mj-column padding=" 0px 0px 20px 20px">
-        <mj-text font-family="'raleway', sans-serif" line-height="11px">
-          <h1 style="font-size: 16px; color:#f44805;">BOOSTED PLUS</h1>
-          <p style="font-size: 13px; color:#939393;">The new classic</p>
+      <mj-column padding=" 0px 0px 30px 20px">
+        <mj-text font-family="'raleway', sans-serif" line-height="11px" align="center">
+          <h1 style="font-size: 20px; color:#f44805;">BOOSTED PLUS</h1>
+          <p style="font-size: 14px; color:#939393;">The new classic</p>
         </mj-text>
 
-        <mj-text font-family="'raleway', sans-serif" line-height="15px">
-          <p style="font-size: 13px; color:#939393;">- 22 mph Top Speed</p>
-          <p style="font-size: 13px; color:#939393;">- Extended Range (14 Miles)</p>
-          <p style="font-size: 13px; color:#939393;">- Super Flex Composite Deck</p>
+        <mj-text font-family="'raleway', sans-serif" line-height="15px" align="center">
+          <p style="font-size: 15px; color:#939393;">- 22 mph Top Speed</p>
+          <p style="font-size: 15px; color:#939393;">- Extended Range (14 Miles)</p>
+          <p style="font-size: 15px; color:#939393;">- Super Flex Composite Deck</p>
           <h1 style="font-size: 20px;">$1,399</h1>
         </mj-text>
         <mj-button font-family="'raleway', sans-serif" background-color="#f44805" padding-top="10px" href="https://boostedboards.com/boards">
@@ -206,20 +206,20 @@
     </mj-raw>
     <mj-section background-color="#ffffff" >
 
-      <mj-column padding=" 0px 20px 0px 0px">
+      <mj-column>
         <mj-image src="https://i.postimg.cc/sfPLCDmJ/boosted-sleath-2.png"/>
       </mj-column>
 
-      <mj-column padding="0px 0px 30px 20px">
-        <mj-text font-family="'raleway', sans-serif" line-height="11px">
-          <h1 style="font-size: 16px; color:#f44805;">BOOSTED STEALTH</h1>
-          <p style="font-size: 13px; color:#939393;">The pinnacle of performance</p>
+      <mj-column padding="0px 0px 50px 20px">
+        <mj-text font-family="'raleway', sans-serif" line-height="11px" align="center">
+          <h1 style="font-size: 20px; color:#f44805;">BOOSTED STEALTH</h1>
+          <p style="font-size: 14px; color:#939393;">The pinnacle of performance</p>
         </mj-text>
 
-        <mj-text font-family="'raleway', sans-serif" line-height="15px">
-          <p style="font-size: 13px; color:#939393;">- 24 mph Top Speed</p>
-          <p style="font-size: 13px; color:#939393;">- Extended Range (14 Miles)</p>
-          <p style="font-size: 13px; color:#939393;">- Super Flex Composite Deck</p>
+        <mj-text font-family="'raleway', sans-serif" line-height="15px" align="center">
+          <p style="font-size: 15px; color:#939393;">- 24 mph Top Speed</p>
+          <p style="font-size: 15px; color:#939393;">- Extended Range (14 Miles)</p>
+          <p style="font-size: 15px; color:#939393;">- Super Flex Composite Deck</p>
           <h1 style="font-size: 20px;">$1,399</h1>
         </mj-text>
         <mj-button font-family="'raleway', sans-serif" background-color="#f44805" padding-top="10px" href="https://boostedboards.com/boards">
@@ -251,9 +251,9 @@
     </mj-section>
 
     <mj-raw>
-      <!-- financing available -->
+      <!-- financing, warranty, 30 day -->
     </mj-raw>
-    <mj-section background-color="black" padding="0px 20px 0 20px">
+    <mj-section background-color="black" padding="0px 20px 20px 20px">
 
       <mj-column padding="10px 0px 20px 0px" vertical-align="middle">
         <mj-image src="https://i.postimg.cc/Kzyjzkv0/financing.png" width="30px"/>
@@ -281,8 +281,48 @@
 
     </mj-section>
 
+    <mj-raw>
+      <!-- footer icon -->
+    </mj-raw>
+    <mj-section background-color="#F5F5F5" padding="20px 0px 0px 0px">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/3r4Rp0Rr/logo.png" width="120px" padding="15px 0px 15px 0px"/>
+      </mj-column>
+    </mj-section>
 
+    <mj-raw>
+      <!-- social links -->
+    </mj-raw>
+    <mj-section background-color="#F5F5F5" padding="0px 20px 20px 20px">
+      <mj-column padding="0px 0px 0px 0px">
+        <mj-social font-family="'raleway', sans-serif" font-size="11px" icon-size="13px"  mode="horizontal" color="black">
+          <mj-social-element href="https://www.facebook.com/boostedboards">FACEBOOK</mj-social-element>
+          <mj-social-element href="https://www.instagram.com/boostedboards" >INSTAGRAM</mj-social-element>
+          <mj-social-element href="https://www.youtube.com/user/BoostedCommunity" >YOUTUBE</mj-social-element>
+          <mj-social-element href="https://twitter.com/boostedboards" >TWITTER</mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
 
+    <mj-raw>
+      <!-- line divider -->
+    </mj-raw>
+    <mj-section background-color="#F5F5F5" padding="0px 11px 0px 11px">
+      <mj-column>
+         <mj-divider border-width="1px" border-style="solid" border-color="#D7D7D7" />
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- personal note -->
+    </mj-raw>
+    <mj-section background-color="#F5F5F5" padding="10px 15px 20px 15px" border-radius="0px 0px 11px 11px">
+      <mj-column>
+        <mj-text font-family="'raleway', sans-serif" font-size="12px" line-height="17px" align="center" color="black">
+           <p>To whom it may concern, this email is a personal project of mine and not that of Boosted Board.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
   </mj-body>
 
