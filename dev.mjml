@@ -319,7 +319,7 @@
     <mj-section background-color="#F5F5F5" padding="10px 15px 20px 15px" border-radius="0px 0px 11px 11px">
       <mj-column>
         <mj-text font-family="'raleway', sans-serif" font-size="12px" line-height="17px" align="center" color="black">
-           <p>To whom it may concern, this email is a personal project of mine and not that of Boosted Board.</p>
+           <p>Please note that this email is a personal project of mine and not that of Boosted Board.</p>
         </mj-text>
       </mj-column>
     </mj-section>
